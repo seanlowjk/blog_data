@@ -1,7 +1,6 @@
-# My Teaching Career in NUS \
-<br>
+# My Teaching Career in NUS
 
-## My Teaching Experiences</h3>
+## My Teaching Experiences
 
 Looking throughout my teaching journey in NUS, I have been part-time
 teaching in the School of Computing (SoC) for 2.5 years. 
@@ -39,7 +38,8 @@ as possible.
 2. Using Zoom Annotations. One good thing that I found while student was 
 presenting was to use Annotations to **direct the attention** of students
 to the important parts which were needed.  
-![Annotations](https://user-images.githubusercontent.com/42912708/147327032-899c530b-e6a1-46ce-aa19-f4053bb2ca82.png)
+
+<img src="https://user-images.githubusercontent.com/42912708/147327032-899c530b-e6a1-46ce-aa19-f4053bb2ca82.png" alt="annotations" width="200"/>
 
 ## Dealing with Classes in General
 
