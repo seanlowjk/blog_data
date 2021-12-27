@@ -1,8 +1,18 @@
 {
     "pages": [
         {
-            "title": "My Teaching Career in NUS", 
-            "summary": "This article talks about my part-time teaching experience in NUS."
-        }
+            "title": "Don't Repeat Yourself (DRY)",
+            "subtitle":
+              "This article talks about some bad practices i did during my internship",
+            "href": "/misc/dry",
+            "location": "/misc/dry.md"
+          },
+          {
+            "title": "My Teaching Career in NUS",
+            "subtitle":
+              "This article talks about my part-time teaching experience in NUS",
+              "href": "/misc/teaching",
+              "location": "/misc/teaching.md"
+          }
     ]
 }
