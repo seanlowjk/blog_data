@@ -12,6 +12,46 @@
           "isSUable": true,
           "link": "/modules/CS1101S",
           "content": "/modules/CS1101S.md"
+        },
+        {
+          "title": "CS1231 Discrete Structures",
+          "type": "Core Module",
+          "isGradeFree": false,
+          "isSUable": true,
+          "link": "/modules/CS1231",
+          "content": "/modules/CS1231.md"
+        },
+        {
+          "title": "MA1421 Calculus for Computing",
+          "type": "Mathematics and Sciences",
+          "isGradeFree": false,
+          "isSUable": true,
+          "link": "/modules/MA1521",
+          "content": "/modules/MA1521.md"
+        },
+        {
+          "title": "GEH1030 Science of Music",
+          "type": "General Education",
+          "isGradeFree": false,
+          "isSUable": true,
+          "link": "/modules/GEH1030",
+          "content": "/modules/GEH1030.md"
+        },
+        {
+          "title": "GES1028 Singapore Society",
+          "type": "General Education",
+          "isGradeFree": false,
+          "isSUable": true,
+          "link": "/modules/GES1028",
+          "content": "/modules/GES1028.md"
+        },
+        {
+          "title": "CFG1002 Career Catalyst",
+          "type": "Unrestricted Elective",
+          "isGradeFree": true,
+          "isSUable": false,
+          "link": "/modules/CFG1002",
+          "content": "/modules/CFG1002.md"
         }
       ]
     }
