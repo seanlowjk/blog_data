@@ -1,0 +1,14 @@
+{
+  "academicYear": "AY2018/19",
+  "year": 1,
+  "semester": 1,
+  "modules": [
+    {
+      "title": "CS1101S Programming Methodology",
+      "type": "Core Module",
+      "isGradeFree": false,
+      "isSUable": true,
+      "content": "/modules/CS1101S.md"
+    }
+  ]
+}
