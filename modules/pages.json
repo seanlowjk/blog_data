@@ -8,6 +8,7 @@
       "type": "Core Module",
       "isGradeFree": false,
       "isSUable": true,
+      "link": "/modules/CS1101S",
       "content": "/modules/CS1101S.md"
     }
   ]
